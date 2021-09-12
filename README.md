@@ -31,7 +31,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Mauro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mauro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mauro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Mauro-yoda" width="280px"  src="https://64.media.tumblr.com/e12984ecaf6f505cca291a1d45f06c7e/3966d90abe7c3818-ad/s640x960/7ca87340fc417029d90c91439b37f5ab83c70cb5.gifv">
+
+
+ 
 </div>
   
   ##
@@ -44,6 +46,16 @@ Here are some ideas to get you started:
 <!--   <a href = "mailto:contatomauroexdefalt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/mauro-viera-da-cruz-junior-5a159527/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/mauroexdefalt/mauroexdefalt/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/mauroexdefalt/mauroexdefalt/blob/output/github-contribution-grid-snake.svg) -->
+ 
+  <img align="left" alt="Mauro-yoda" width="600px"  src="https://64.media.tumblr.com/e12984ecaf6f505cca291a1d45f06c7e/3966d90abe7c3818-ad/s640x960/7ca87340fc417029d90c91439b37f5ab83c70cb5.gifv">
  
 </div>
+ 
+
+  
+   
+ 
+ 
+
+
