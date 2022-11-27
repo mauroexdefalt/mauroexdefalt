@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Bora programar , fala ai blz ! 
+
  <div >
  
  
